@@ -23,7 +23,9 @@ a.	Install pandas_datareader package by using following command: - pip install p
 b.	Install pmdarima package by using following command: - pip install pmdarima
 c.	Install mpl_finance package by using following command: - pip install mpl_finance
 3.	Make user to save stock_market.py program and the related modules in same folder on your computer.
+
 Executing the program:
+
 1.	For Windows and Mac users open the directory where the file has been saved in CMD or Terminal and type python stock_market.py to execute the program.
 2.	You will get two options:
 a.	Update Nasdaq Company symbol list on the computer if you this that a new company has been publicly announced in Nasdaq recently.
@@ -65,6 +67,7 @@ Navigating tips:
 Please follow up through the instructions of the program whenever you want to go back to previous screen or exit the program.
  
 UML Diagram
+The UML diagram can be seen in the 'read-me.pdf'
 
 
 
