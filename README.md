@@ -1,6 +1,6 @@
 # NASDAQ-STOCK-MARKET-ANALYSIS-USING-PYTHON
-Authors: Fuad Goloba
-         Darshan Amin
+Authors: Fuad Goloba,
+         Darshan Amin,
          Alp Ates
 
 Program Overview
