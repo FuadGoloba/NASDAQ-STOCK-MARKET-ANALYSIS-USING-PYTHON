@@ -1,8 +1,4 @@
 # NASDAQ-STOCK-MARKET-ANALYSIS-USING-PYTHON
-Authors: Fuad Goloba,
-         Darshan Amin,
-         Alp Ates
-
 Program Overview
 This project is a financial analytics project developed by my team (3 individuals) in the first semester of my master’s program in Business Analytics. The project was designed to allow advanced Business Analysts without programming knowledge to consult, analyse, and model stock time series. Descriptive and Predictive analytics were utilized to  provide the possibility of searching  for specific stocks, and querying specified time ranges along with associated analysis, such as statistical descriptions of prices and/or volume (mean, median, range, etc), technical indicators, visualisation (of the raw data, but also of transformations, such as moving averages), and even basic modelling (such as regression) as users can employ the program to predict future prices of various companies’ stocks to better decide what stocks to trade within a range of period.
 
